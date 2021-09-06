@@ -1,6 +1,10 @@
 Welcome to the opscloud wiki!
 
-# OpsCloud4.0 IaC基础架构即代码 版本预告
+# OpsCloud4.0 IaC基础架构即代码
+> Github国内访问速度太慢，此项目迁移至gitee(前后端全部开源)
+<a style="color:#2b669a" href="https://gitee.com/opscloud/opscloud4" target="_blank">传送门:https://gitee.com/opscloud/opscloud4</a>
+<a style="color:#2b669a" href="https://gitee.com/opscloud/opscloud4-web" target="_blank">传送门:https://gitee.com/opscloud/opscloud4</a>
+
 <img src="https://img.shields.io/badge/version-4.0.0-brightgreen.svg"></img>
 <img src="https://img.shields.io/badge/java-8-brightgreen.svg"></img> 
 <img src="https://img.shields.io/badge/springboot-2.3.10.RELEASE-brightgreen.svg"></img> 
